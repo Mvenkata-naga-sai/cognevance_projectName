@@ -71,7 +71,7 @@ enterprise-erp-platform/
 ## ⚙️ Installation & Setup
 
 ## 🔹 Clone Repository
-```bash
+
 git clone https://github.com/your-username/enterprise-erp-platform.git
 cd enterprise-erp-platform
 🔹 Install Dependencies

@@ -93,6 +93,8 @@ POST /employees/
 
 (Extendable for Inventory, Sales, Finance)
 
+---
+
 🗄️ Database
 
 Example schema:
@@ -107,16 +109,28 @@ Supports:
 PostgreSQL
 MySQL
 SQLite
+
+---
+
 🔐 Security Features
+
 JWT Authentication (extendable)
 Password hashing (bcrypt recommended)
 Input validation using Pydantic
 Role-based access control
+
+---
+
 ⚡ Performance Optimization
+
 FastAPI async support
 Scalable architecture
 Redis caching (optional)
+
+---
+
 ☁️ Deployment
+
 Backend
 Render
 Railway
@@ -126,21 +140,36 @@ Vercel
 Netlify
 Database
 PostgreSQL (AWS RDS / Supabase)
+
+---
+
 📈 Future Enhancements
+
 React/Next.js frontend
 Advanced analytics dashboard
 Notification system
 Cloud storage integration
 Mobile application
+
+---
+
 📄 Deliverables
+
 Full source code
 Backend APIs
 Database schema
 Frontend UI
 Documentation
+
+---
+
 👨‍💻 Author
 
-Sai – Internship Project
+m venkata naga Sai 
+
+computer science engineering
+
+---
 
 ⭐ Conclusion
 
